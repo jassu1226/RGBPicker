@@ -2,7 +2,7 @@
 //  RGBPickerApp.swift
 //  RGBPicker
 //
-//  Created by Rijutha Kona on 9/7/23.
+//  Created by Jaswanth Alahari on 9/7/23.
 //
 
 import SwiftUI
